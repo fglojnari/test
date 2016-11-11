@@ -10,11 +10,12 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helllo svete novi čar tralaal");
+            Console.WriteLine("Helllo svete novi čar tralaal ma evo sveeeeee");
             Console.ReadLine();
             Console.ReadLine(); Console.ReadLine();
             Console.ReadLine();
             Console.ReadLine(); Console.ReadLine();
+
         }
     }
 }
